@@ -1,11 +1,13 @@
 {
   "name": "reactant-skeleton",
   "version": "0.1.0",
+  "homepage": "https://dorumrr.github.io/reactant-skeleton",
   "private": true,
   "dependencies": {
     "antd": "^3.23.5",
     "babel-plugin-import": "^1.12.2",
     "customize-cra": "^0.8.0",
+    "gh-pages": "^2.1.1",
     "less": "^3.10.3",
     "less-loader": "^5.0.0",
     "react": "^16.10.1",
@@ -18,6 +20,8 @@
   "scripts": {
     "start": "PORT=3041 react-app-rewired start",
     "build": "react-app-rewired build",
+    "predeploy": "yarn run build",
+    "deploy": "gh-pages -d build",
     "test": "react-app-rewired test"
   },
   "eslintConfig": {

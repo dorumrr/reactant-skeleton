@@ -7,16 +7,24 @@
 - react-router
 - unstated
 - Ant Design (customization ready)
-- gh-pages
+- gh-pages (including <em>404 hack</em> to help BrowserRouter)
+
+### SEE IT IN ACTION
+
+[dorumrr.github.io/reactant-skeleton](dorumrr.github.io/reactant-skeleton)
 
 ### INSTALLATION
 
 `yarn install`
 
+Alter `homepage` in `package.json` accordingly to your github account and repository.
+
 ### DEVELOPMENT
 
 `yarn start`
 
-### DEPLOYMENT (Github Pages)
+### GITHUB PAGES SETUP
+
+### DEPLOYMENT (`gh-pages` branch)
 
 `yarn run deploy`
