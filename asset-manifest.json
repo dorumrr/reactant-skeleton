@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/reactant-skeleton/static/css/main.f0cf56cc.chunk.css",
+    "main.js": "/reactant-skeleton/static/js/main.a885c442.chunk.js",
+    "main.js.map": "/reactant-skeleton/static/js/main.a885c442.chunk.js.map",
+    "runtime-main.js": "/reactant-skeleton/static/js/runtime-main.d6d40870.js",
+    "runtime-main.js.map": "/reactant-skeleton/static/js/runtime-main.d6d40870.js.map",
+    "static/css/2.23f153e0.chunk.css": "/reactant-skeleton/static/css/2.23f153e0.chunk.css",
+    "static/js/2.9df9d425.chunk.js": "/reactant-skeleton/static/js/2.9df9d425.chunk.js",
+    "static/js/2.9df9d425.chunk.js.map": "/reactant-skeleton/static/js/2.9df9d425.chunk.js.map",
+    "index.html": "/reactant-skeleton/index.html",
+    "precache-manifest.c964d85d107027f0172f4c9b35c851d0.js": "/reactant-skeleton/precache-manifest.c964d85d107027f0172f4c9b35c851d0.js",
+    "service-worker.js": "/reactant-skeleton/service-worker.js",
+    "static/css/2.23f153e0.chunk.css.map": "/reactant-skeleton/static/css/2.23f153e0.chunk.css.map",
+    "static/css/main.f0cf56cc.chunk.css.map": "/reactant-skeleton/static/css/main.f0cf56cc.chunk.css.map"
+  }
+}
