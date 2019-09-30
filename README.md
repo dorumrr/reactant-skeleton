@@ -11,7 +11,7 @@
 
 ### SEE IT IN ACTION
 
-[dorumrr.github.io/reactant-skeleton](dorumrr.github.io/reactant-skeleton)
+[https://dorumrr.github.io/reactant-skeleton](https://dorumrr.github.io/reactant-skeleton)
 
 ### INSTALLATION
 
