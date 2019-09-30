@@ -1,11 +1,13 @@
-.App {
-  text-align: center;
-  border: 10px solid red;
+.app-wrapper {
+  /* max-width: 1000px; */
+  /* margin: 0 20px */
 }
 
 
-#components-layout-demo-fixed-sider .logo {
-  height: 32px;
-  background: rgba(255, 255, 255, 0.2);
-  margin: 16px;
+
+.utils-center-vertically {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
 }
