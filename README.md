@@ -23,8 +23,9 @@ Alter `homepage` in `package.json` accordingly to your github account and reposi
 
 `yarn start`
 
-### GITHUB PAGES SETUP
-
 ### DEPLOYMENT (`gh-pages` branch)
 
-`yarn run deploy`
+`yarn deploy`
+
+Github Pages will be enabled and gh-pages branch will also be set up automatically.
+
